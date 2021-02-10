@@ -1,0 +1,16 @@
+knum	threshold	score_type	profile_type	F-measure	nseq	nseq_used	alen	mlen	eff_nseq	re/pos	definition
+K00076	273.03	domain	trim	0.847604	769	504	601	314	3.56	0.59	7-alpha-hydroxysteroid dehydrogenase [EC:1.1.1.159]
+K01442	371.5	full	all	0.684841	364	248	706	365	3.14	0.59	choloylglycine hydrolase [EC:3.5.1.24]
+K07007	-	-	-	-	2	1	409	409	0.39	0.589	"3-dehydro-bile acid Delta4,6-reductase [EC:1.3.1.114]"
+K15868	502.87	domain	all	0.970612	156	141	1142	531	1.98	0.591	bile acid-coenzyme A ligase [EC:6.2.1.7]
+K15869	-	-	-	-	1	1	249	249	0.39	0.587	3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase [EC:1.1.1.395]
+K15870	-	-	-	-	3	2	639	639	0.4	0.589	3-oxocholoyl-CoA 4-desaturase [EC:1.3.1.115]
+K15871	858.37	full	all	0.722222	4	4	443	437	0.45	0.588	bile acid CoA-transferase [EC:2.8.3.25]
+K15872	-	-	-	-	2	2	169	169	0.39	0.589	bile-acid 7alpha-dehydratase [EC:4.2.1.106]
+K15873	-	-	-	-	2	2	661	661	0.4	0.592	7beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase [EC:1.3.1.116]
+K15874	-	-	-	-	1	1	182	182	0.36	0.591	bile acid 7beta-dehydratase
+K22604	583.57	full	all	1	3	3	259	259	0.4	0.588	3alpha-hydroxycholanate dehydrogenase (NAD+) [EC:1.1.1.52]
+K22605	468.37	full	all	1	3	3	253	253	0.47	0.587	3alpha-hydroxycholanate dehydrogenase (NADP+) [EC:1.1.1.392]
+K22606	327.27	domain	all	0.669031	3	3	279	260	0.58	0.591	3beta-hydroxycholanate 3-dehydrogenase (NAD+) [EC:1.1.1.391]
+K22607	-	-	-	-	1	1	276	276	0.4	0.592	3beta-hydroxycholanate 3-dehydrogenase (NADP+) [EC:1.1.1.393]
+K23231	404.8	full	all	1	4	4	267	265	0.54	0.592	7beta-hydroxysteroid dehydrogenase (NADP+) [EC:1.1.1.201]

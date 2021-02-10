@@ -1,0 +1,327 @@
+K15870
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_01006       -          K15870               -              1e-29  100.6   0.1   4.1e-29   98.6   0.1   1.8   1   1   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_01592       -          K15870               -            1.1e-20   70.8   0.0   1.5e-20   70.3   0.0   1.1   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_02041       -          K15870               -            2.3e-08   30.0   0.2   5.8e-07   25.4   0.0   2.2   1   1   1   2   2   2   1 putative pyridine nucleotide-disulfide oxidoreductase RclA
+GJHCLFJP_00113       -          K15870               -            3.9e-05   19.3   0.1    0.0011   14.5   0.0   2.2   2   0   0   2   2   2   1 Dihydrolipoyl dehydrogenase
+GJHCLFJP_02048       -          K15870               -            6.4e-05   18.6   0.2   0.00012   17.7   0.2   1.4   1   1   0   1   1   1   1 Glutamate synthase [NADPH] small chain
+GJHCLFJP_02623       -          K15870               -            0.00031   16.4   0.0   0.00058   15.5   0.0   1.4   1   0   0   1   1   1   1 Mercuric reductase
+GJHCLFJP_00387       -          K15870               -             0.0062   12.1   0.6     0.018   10.5   0.1   1.9   1   1   1   2   2   2   1 Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+GJHCLFJP_00762       -          K15870               -              0.012   11.2   0.2     0.017   10.6   0.2   1.2   1   0   0   1   1   1   0 4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming)
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15870.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15870 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15870.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K00076
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00407       -          K00076               -            2.7e-76  253.8   9.3   2.9e-76  253.7   9.3   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_01535       -          K00076               -            4.9e-63  210.2   5.7   5.5e-63  210.1   5.7   1.0   1   0   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00568       -          K00076               -            1.5e-54  182.4   0.0   1.7e-54  182.2   0.0   1.0   1   0   0   1   1   1   1 putative oxidoreductase YghA
+GJHCLFJP_00707       -          K00076               -            7.1e-53  176.9   0.3   8.2e-53  176.6   0.3   1.0   1   0   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00701       -          K00076               -            2.4e-52  175.1   4.9   4.2e-52  174.3   4.9   1.4   1   1   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00209       -          K00076               -            6.6e-41  137.5   0.1   7.2e-41  137.4   0.1   1.0   1   0   0   1   1   1   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+GJHCLFJP_00778       -          K00076               -            8.3e-34  114.2   0.2   9.9e-34  114.0   0.2   1.0   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00358       -          K00076               -            3.3e-33  112.2   0.0   3.9e-33  112.0   0.0   1.0   1   0   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_00129       -          K00076               -            4.9e-21   72.3   0.0   5.9e-21   72.0   0.0   1.0   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_01586       -          K00076               -            2.4e-05   20.7   0.0   3.8e-05   20.1   0.0   1.3   1   0   0   1   1   1   1 UDP-glucose 4-epimerase
+GJHCLFJP_00427       -          K00076               -            0.00039   16.7   0.4      0.16    8.1   0.0   2.3   2   0   0   2   2   2   2 Coenzyme A biosynthesis bifunctional protein CoaBC
+GJHCLFJP_02158       -          K00076               -            0.00069   15.9   0.3   0.00093   15.5   0.3   1.2   1   0   0   1   1   1   1 D-lactate dehydrogenase
+GJHCLFJP_00834       -          K00076               -            0.00089   15.6   0.1    0.0013   15.0   0.1   1.3   1   0   0   1   1   1   1 D-arabitol-phosphate dehydrogenase
+GJHCLFJP_01292       -          K00076               -             0.0015   14.8   0.0    0.0048   13.1   0.0   1.7   2   0   0   2   2   2   1 UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+GJHCLFJP_00262       -          K00076               -             0.0083   12.4   0.0     0.012   11.9   0.0   1.2   1   0   0   1   1   1   1 Bifunctional protein FolD protein
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K00076.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K00076 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K00076.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K22604
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_01535       -          K22604               -            5.1e-12   43.3   1.7   1.4e-07   28.7   0.1   2.4   2   1   0   2   2   2   2 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00407       -          K22604               -            5.2e-11   40.0   4.8   4.2e-09   33.7   4.8   2.9   1   1   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_00707       -          K22604               -            1.1e-09   35.7   0.1   3.8e-06   24.0   0.0   2.1   1   1   1   2   2   2   2 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00701       -          K22604               -            7.3e-08   29.7   1.2   3.9e-06   24.0   1.2   2.2   1   1   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00358       -          K22604               -              4e-06   24.0   0.1   7.6e-06   23.0   0.1   1.5   1   0   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_00568       -          K22604               -            0.00012   19.2   0.0   0.00036   17.6   0.0   1.7   2   1   0   2   2   2   1 putative oxidoreductase YghA
+GJHCLFJP_00209       -          K22604               -             0.0012   15.9   0.0    0.0021   15.0   0.0   1.4   1   0   0   1   1   1   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22604.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K22604 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22604.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15874
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15874.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15874 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15874.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15869
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00407       -          K15869               -            3.6e-43  144.9   6.0     4e-43  144.7   6.0   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_01535       -          K15869               -            7.9e-36  120.8   3.1   1.1e-35  120.3   3.1   1.2   1   0   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00701       -          K15869               -              3e-30  102.5   2.3   3.5e-30  102.3   2.3   1.0   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00707       -          K15869               -            1.2e-23   80.9   0.8   1.5e-23   80.6   0.8   1.1   1   0   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00568       -          K15869               -              1e-14   51.7   0.0   1.3e-14   51.3   0.0   1.1   1   0   0   1   1   1   1 putative oxidoreductase YghA
+GJHCLFJP_00778       -          K15869               -            1.7e-14   51.0   0.3   2.8e-14   50.2   0.3   1.4   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00209       -          K15869               -            4.1e-13   46.4   0.3   4.6e-13   46.3   0.3   1.0   1   0   0   1   1   1   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+GJHCLFJP_00358       -          K15869               -            1.6e-11   41.2   0.1   1.8e-11   41.1   0.1   1.2   1   0   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_00129       -          K15869               -            0.00044   16.9   0.0   0.00087   15.9   0.0   1.5   1   1   0   1   1   1   1 putative oxidoreductase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15869.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15869 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15869.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K01442
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00807       -          K01442               -            1.7e-86  288.0   0.4   1.9e-86  287.9   0.4   1.0   1   0   0   1   1   1   1 putative protein YxeI
+GJHCLFJP_00636       -          K01442               -            7.3e-08   29.3   0.0   9.8e-07   25.6   0.0   2.1   1   1   1   2   2   2   1 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K01442.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K01442 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K01442.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K23231
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00701       -          K23231               -            6.5e-20   69.1   1.6   8.4e-20   68.7   1.6   1.0   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00407       -          K23231               -            2.9e-14   50.6   0.6   3.7e-14   50.2   0.6   1.1   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_00358       -          K23231               -            9.7e-14   48.8   0.2   1.2e-13   48.5   0.2   1.0   1   0   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_01535       -          K23231               -            8.6e-12   42.5   0.3   1.1e-11   42.1   0.3   1.1   1   0   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00129       -          K23231               -            1.6e-11   41.6   0.0   1.8e-11   41.4   0.0   1.0   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00707       -          K23231               -            2.7e-06   24.4   0.1   3.2e-06   24.2   0.1   1.3   1   0   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00778       -          K23231               -            4.3e-05   20.5   0.1   5.1e-05   20.2   0.1   1.1   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00568       -          K23231               -              0.012   12.5   0.0     0.017   12.0   0.0   1.2   1   0   0   1   1   1   0 putative oxidoreductase YghA
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K23231.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K23231 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K23231.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15873
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_01006       -          K15873               -            2.5e-21   73.0   0.1   3.8e-21   72.4   0.1   1.2   1   1   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_01592       -          K15873               -            8.3e-19   64.7   0.0   1.2e-18   64.1   0.0   1.1   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00294       -          K15873               -            6.4e-10   35.3   1.1   0.00014   17.7   0.1   2.7   3   1   0   3   3   3   2 Dihydrolipoyl dehydrogenase
+GJHCLFJP_02623       -          K15873               -              6e-07   25.5   0.2   0.00013   17.7   0.0   2.2   2   0   0   2   2   2   2 Mercuric reductase
+GJHCLFJP_00762       -          K15873               -            4.5e-06   22.6   0.4   1.1e-05   21.4   0.2   1.6   2   0   0   2   2   2   1 4,4'-diapophytoene desaturase (4,4'-diaponeurosporene-forming)
+GJHCLFJP_02048       -          K15873               -            4.5e-06   22.6   0.1   2.2e-05   20.3   0.1   1.8   1   1   1   2   2   2   1 Glutamate synthase [NADPH] small chain
+GJHCLFJP_01628       -          K15873               -            2.1e-05   20.4   0.2   0.00014   17.6   0.1   2.2   1   1   0   2   2   2   1 Ferredoxin--NADP reductase
+GJHCLFJP_00765       -          K15873               -            2.2e-05   20.4   0.1     3e-05   19.9   0.1   1.1   1   0   0   1   1   1   1 4,4'-diaponeurosporene oxygenase
+GJHCLFJP_01380       -          K15873               -            7.5e-05   18.6   0.5   0.00014   17.7   0.4   1.4   1   1   1   2   2   2   1 Thioredoxin reductase
+GJHCLFJP_02041       -          K15873               -            0.00068   15.4   0.3     0.017   10.8   0.1   2.4   2   1   0   2   2   2   1 putative pyridine nucleotide-disulfide oxidoreductase RclA
+GJHCLFJP_01249       -          K15873               -             0.0012   14.6   0.6     0.061    8.9   0.1   2.3   1   1   1   2   2   2   1 Alkyl hydroperoxide reductase subunit F
+GJHCLFJP_01138       -          K15873               -             0.0017   14.1   0.0    0.0026   13.5   0.0   1.2   1   0   0   1   1   1   1 putative protein
+GJHCLFJP_00545       -          K15873               -              0.012   11.3   0.2     0.017   10.8   0.2   1.4   1   1   0   1   1   1   0 Aurachin C monooxygenase/isomerase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15873.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15873 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15873.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15871
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15871.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15871 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15871.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K22606
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00407       -          K22606               -            2.8e-53  178.3   8.8   3.2e-53  178.1   8.8   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_01535       -          K22606               -              3e-48  161.8   6.1   3.7e-48  161.5   6.1   1.0   1   0   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00707       -          K22606               -              4e-40  135.2   2.9   4.9e-40  134.9   2.9   1.1   1   0   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00701       -          K22606               -            1.4e-39  133.4   2.0   1.6e-39  133.2   2.0   1.1   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00568       -          K22606               -              2e-30  103.4   0.0   2.7e-30  103.0   0.0   1.0   1   0   0   1   1   1   1 putative oxidoreductase YghA
+GJHCLFJP_00358       -          K22606               -            1.7e-15   54.4   0.0     2e-15   54.2   0.0   1.0   1   0   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_00778       -          K22606               -            1.5e-13   48.0   0.2   2.1e-13   47.6   0.2   1.2   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00209       -          K22606               -            5.9e-09   33.0   0.6   1.7e-08   31.5   0.6   1.7   1   1   0   1   1   1   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+GJHCLFJP_00129       -          K22606               -            4.5e-08   30.1   0.0   6.1e-08   29.7   0.0   1.2   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_01586       -          K22606               -             0.0084   12.8   0.1     0.012   12.4   0.1   1.3   1   0   0   1   1   1   1 UDP-glucose 4-epimerase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22606.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K22606 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22606.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K07007
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_01138       -          K07007               -            5.7e-52  174.4   0.0     7e-52  174.1   0.0   1.0   1   0   0   1   1   1   1 putative protein
+GJHCLFJP_02041       -          K07007               -              0.017   11.5   0.0     0.027   10.8   0.0   1.2   1   0   0   1   1   1   0 putative pyridine nucleotide-disulfide oxidoreductase RclA
+GJHCLFJP_00765       -          K07007               -              0.021   11.2   0.3      0.22    7.8   0.2   2.0   2   0   0   2   2   2   0 4,4'-diaponeurosporene oxygenase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K07007.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K07007 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K07007.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K22607
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00407       -          K22607               -              2e-40  135.9   8.6     3e-38  128.7   5.6   2.0   1   1   1   2   2   2   2 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_01535       -          K22607               -            1.4e-29  100.3   5.0   2.8e-29   99.3   5.0   1.4   1   1   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00701       -          K22607               -            3.1e-29   99.2   1.3   3.6e-29   98.9   1.3   1.0   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00707       -          K22607               -            4.5e-26   88.8   0.5   2.5e-24   83.1   0.5   2.0   1   1   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00568       -          K22607               -            1.8e-18   63.8   0.0   1.6e-17   60.8   0.0   1.9   2   0   0   2   2   2   1 putative oxidoreductase YghA
+GJHCLFJP_00778       -          K22607               -              1e-14   51.5   0.1   1.3e-14   51.2   0.1   1.1   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00358       -          K22607               -            1.1e-10   38.4   0.1   3.7e-07   26.7   0.1   2.1   1   1   1   2   2   2   2 Acetoacetyl-CoA reductase
+GJHCLFJP_00129       -          K22607               -            1.5e-05   21.5   0.0     2e-05   21.0   0.0   1.1   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00209       -          K22607               -             0.0017   14.7   0.1     0.014   11.8   0.0   1.9   1   1   1   2   2   2   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+GJHCLFJP_00086       -          K22607               -              0.027   10.8   0.0     0.032   10.5   0.0   1.1   1   0   0   1   1   1   0 hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22607.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K22607 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22607.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15872
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15872.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15872 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15872.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K22605
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00407       -          K22605               -            3.3e-58  194.7   6.2   3.7e-58  194.6   6.2   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GJHCLFJP_01535       -          K22605               -            5.6e-43  144.8   2.0   7.7e-43  144.4   2.0   1.2   1   0   0   1   1   1   1 Diacetyl reductase [(S)-acetoin forming]
+GJHCLFJP_00707       -          K22605               -            1.2e-37  127.3   1.8   1.5e-37  127.0   1.8   1.1   1   0   0   1   1   1   1 Dihydroanticapsin 7-dehydrogenase
+GJHCLFJP_00701       -          K22605               -            7.8e-30  101.8   5.0   1.3e-29  101.1   5.0   1.3   1   1   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_00568       -          K22605               -            1.6e-25   87.7   0.0   1.9e-25   87.4   0.0   1.0   1   0   0   1   1   1   1 putative oxidoreductase YghA
+GJHCLFJP_00358       -          K22605               -            3.2e-19   67.0   0.1   4.5e-19   66.5   0.1   1.2   1   1   0   1   1   1   1 Acetoacetyl-CoA reductase
+GJHCLFJP_00778       -          K22605               -            3.2e-17   60.5   1.1   4.6e-17   59.9   1.1   1.2   1   0   0   1   1   1   1 Cyclopentanol dehydrogenase
+GJHCLFJP_00209       -          K22605               -            3.2e-15   53.9   0.4   3.7e-15   53.7   0.4   1.0   1   0   0   1   1   1   1 Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+GJHCLFJP_00129       -          K22605               -            8.2e-07   26.4   0.0   1.1e-06   26.0   0.0   1.2   1   0   0   1   1   1   1 putative oxidoreductase
+GJHCLFJP_01293       -          K22605               -            0.00069   16.8   0.0    0.0014   15.7   0.0   1.5   1   0   0   1   1   1   1 UDP-glucose 4-epimerase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22605.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K22605 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K22605.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
+K15868
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+GJHCLFJP_00849       -          K15868               -            9.4e-81  269.0   0.0   1.2e-80  268.7   0.0   1.0   1   0   0   1   1   1   1 Long-chain-fatty-acid--CoA ligase
+GJHCLFJP_01318       -          K15868               -            2.8e-72  241.0   0.0   3.4e-34  115.4   0.0   3.1   3   0   0   3   3   3   3 Surfactin synthase subunit 2
+GJHCLFJP_01877       -          K15868               -            5.7e-72  240.0   0.0   7.2e-72  239.7   0.0   1.1   1   0   0   1   1   1   1 Acetyl-coenzyme A synthetase
+GJHCLFJP_01160       -          K15868               -            1.9e-65  218.5   0.0   2.7e-65  218.0   0.0   1.1   1   0   0   1   1   1   1 Acetyl-coenzyme A synthetase
+GJHCLFJP_02380       -          K15868               -              9e-61  203.1   0.0   1.5e-60  202.3   0.0   1.2   1   0   0   1   1   1   1 2-succinylbenzoate--CoA ligase
+GJHCLFJP_02022       -          K15868               -            8.9e-48  160.2   0.0   5.3e-47  157.6   0.0   1.8   1   1   0   1   1   1   1 2-succinylbenzoate--CoA ligase
+GJHCLFJP_01030       -          K15868               -            2.4e-33  112.6   0.0   4.1e-33  111.8   0.0   1.3   1   1   0   1   1   1   1 D-alanine--D-alanyl carrier protein ligase
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15868.hmm
+# Target file:     /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa
+# Option settings: hmmsearch -o /dev/null --tblout /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/bile_acid/ER064912_tmp/tabular/K15868 -T 0 --cpu 1 /home/junyuchen/1-Projects/WGS-Pipeline/database/bile_acid/K15868.hmm /home/junyuchen/1-Projects/WGS-Pipeline/result/testout/prokka/ER064912/ER064912.faa 
+# Current dir:     /home/junyuchen/1-Projects/WGS-Pipeline
+# Date:            Wed Feb 10 20:31:57 2021
+# [ok]
+
