@@ -4,5 +4,5 @@
 - VF - [ABRicate](ABRicate.ipynb)
 - ARG - [ABRicate](ABRicate.ipynb)
 - BGCs - antiSMASH
-- Bile Acid - HMMer/[KofamScan](KofamScan.ipynb)
+- Bile Acid - [HMMer/KofamScan](Bile-Acid.ipynb)
 - PathWay - [KofamScan](KofamScan.ipynb)
